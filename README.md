@@ -49,7 +49,7 @@
 ## 📫 Temukan Saya
 
 - LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/naufalrifkydp30)
-- GitHub: [github.com/username](https://github.com/naufalrev)
+- GitHub: [github.com/username](https://github.com/naufalrdev)
 
 
 ---
