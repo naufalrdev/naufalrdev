@@ -133,6 +133,16 @@ Status: ███████░░░░░░░░░░░░  In Progress
 
 ---
 
+<h2>🐍 Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naufalrdev/naufalrdev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <i>Every contribution is a small step forward.</i>
+</p>
+
 ## ✨ A Few Things About Me
 
 * 💡 I enjoy turning ideas into interfaces.
